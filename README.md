@@ -14,6 +14,3 @@ Then, run it with no arguments:
 $ python network.py
 ```
 
-
-## More
-
